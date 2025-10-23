@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
     return (
-        <div>Home Page</div>
+        <div className='font-bold text-4xl'>Coming Soon</div>
     )
 }
 export default Page

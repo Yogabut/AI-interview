@@ -10,7 +10,7 @@ const monaSans = Mona_Sans({
 
 
 export const metadata: Metadata = {
-  title: "Timeless",
+  title: "Anti Jobeless",
   description: "An AI-powered platform to prepare your first way to freedom",
 };
 
